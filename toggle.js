@@ -1,10 +1,10 @@
 document.getElementById("grid").addEventListener("click", function (){
-document.getElementById("stylesswitch")
-    if (stylesswitch.href == "style2.css") {
-        stylesswitch.href = "styles.css";
+document.getElementById("stylesSwitch")
+    if (stylesSwitch.href == "styles.css") {
+        stylesSwitch.href = "styles2.css";
     }
     else {
-        stylesswitch.href = "styles.css";
+        stylesSwitch.href = "styles.css";
     }
 }
 
